@@ -14,6 +14,8 @@ A personal collection of reusable AI skill guides for study, engineering project
 - `skills/data-analyst/SKILL.md` — data cleaning, analysis, statistics, and visualization.
 - `skills/motorsport-analyst/SKILL.md` — motorsport series, rules, teams, technology, and race analysis.
 - `skills/critical-thinking-coach/SKILL.md` — argument analysis, evidence evaluation, and decision-making.
+- `skills/visual-design/SKILL.md` — graphic design, visual identity, posters, presentations, and layout review.
+- `skills/3d-modeling/SKILL.md` — Blender, 3D product modeling, visualization, and fabrication preparation.
 
 ## How to use
 

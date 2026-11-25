@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ahmed-personal-skills",
+  "version": "1.0.0",
+  "description": "A personal toolkit of reusable skills for student research, engineering, software, scholarships, design, 3D modeling, aviation, motorsport, data analysis, and critical thinking.",
+  "author": {
+    "name": "Personal Skills Toolkit"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Personal Skills Toolkit",
+        "shortDescription": "Study, design & engineering",
+        "longDescription": "A private collection of reusable assistant workflows for learning, research, student engineering projects, programming, scholarships, English, visual design, Blender and 3D modeling, aviation, motorsport, project planning, data analysis, and critical thinking.",
+        "developerName": "Personal Skills Toolkit",
+        "category": "Education & Research",
+        "defaultPrompt": [
+          "Help me plan and document a student engineering project.",
+          "Help me design a polished visual or 3D product concept.",
+          "Help me research a topic using reliable sources and citations."
+        ]
+      }
+    }
+  }
+}
